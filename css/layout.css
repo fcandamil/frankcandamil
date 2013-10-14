@@ -289,10 +289,8 @@ div.slickbox li {
 /***Tablet***//***Mobile***/
 @media only screen and (max-width: 768px) { 
 	#section-header {height:96px;}
-	#content {width:90%; padding: 10px;
-		}
-	#logo {width:12%; 	font-size:2.0em;
-	}
+	#content {width:90%; padding: 10px;}
+	#logo {width:12%; 	font-size:2.0em;}
 	#logo-mark{width:90px; height:auto;}
 	h1 {font-size:2.1em; }
 	h2 {font-size:1.4em; }
@@ -339,7 +337,7 @@ div.slickbox li {
 	#logo {font-size:3.1em;}
 	h1 {font-size:3.13em;}
 	#full-name {opacity: 1;
-	    
+	
 	}
 }
 
